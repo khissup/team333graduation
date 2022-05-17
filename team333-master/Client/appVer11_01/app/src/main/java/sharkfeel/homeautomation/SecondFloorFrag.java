@@ -27,7 +27,7 @@ public class SecondFloorFrag extends Fragment {
 //        ((TextView)rootView.findViewById(R.id.textBathroomTemp)).setText("온도 : 30도");
 //        ((TextView)rootView.findViewById(R.id.textBathroomLux)).setText("밝기 : 3000");
 //////
-//
+////
         listBathroom = (ListView)rootView.findViewById(R.id.BathroomList);
         mAdapter = new ListViewAdapter(getContext());
         listBathroom.setAdapter(mAdapter);
