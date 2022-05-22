@@ -58,7 +58,7 @@ public class MainFrag extends Fragment {
     private ProgressDialog mProgressDialog;
     private BackgroundThread mBackThread;
 
-    ////////////////////////////////////////////////////////////////////////////////////////
+    //////////////////////////////////////////////////////////////////////////////////////////
     //  날씨데이터관련
     RegionDBAdapter dbAdapter;          //  RegionDataBase 어댑터
     RegionDBListAdapter regionDBListAdapter;    //  RegionDBList 어댑터
