@@ -66,7 +66,7 @@ public class MainFrag extends Fragment {
     GPS를 통해 위도, 경도를 얻은 후 getAddress(위도, 경도)를 통해
     주소를 얻음, 그곳에서 얻어진 주소로 기상청에서 제공하는 지역별
     x, y좌표를 select 해서 해당 x,y 좌표로 날씨데이터를 얻음
-     */////
+     *///////
 
     public static int TO_GRID = 0;
     public static int TO_GPS = 1;
